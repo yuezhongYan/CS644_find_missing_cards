@@ -1,0 +1,5 @@
+Clubs 13
+Spades 5
+Clubs 2
+Hearts 5
+Diamonds 13
